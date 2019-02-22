@@ -1,0 +1,27 @@
+{
+  "name": "game-oss-mongo",
+  "version": "1.0.0",
+  "description": "game's oss module with mongodb connector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninlyu/game-oss-mongo.git"
+  },
+  "keywords": [
+    "game",
+    "oss",
+    "mongodb"
+  ],
+  "author": "ninlyu.dev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninlyu/game-oss-mongo/issues"
+  },
+  "homepage": "https://github.com/ninlyu/game-oss-mongo#readme",
+  "dependencies": {
+    "db-mongos": "^1.0.0"
+  }
+}
